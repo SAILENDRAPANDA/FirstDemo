@@ -20,6 +20,7 @@ public class CHARACTERCOUNT {
 		System.out.println("alphabets are "+ ""+count);
 		System.out.println("spacess are "+ ""+count1);
 System.out.println("repos done for sure");
+System.out.println("command line");
 	/*str=str.replace(" ","");
 	 int count=0;
 	 for(int i=0;i<str.length();i++)
